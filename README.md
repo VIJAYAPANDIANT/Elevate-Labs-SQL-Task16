@@ -231,7 +231,7 @@ Possible improvements:
 
 ## 👨‍💻 Author
 
-Developed as part of SQL business analytics learning and practice.
+### Vijayapandian T
 
 ---
 
