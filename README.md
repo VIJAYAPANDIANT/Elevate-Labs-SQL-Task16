@@ -229,12 +229,6 @@ Possible improvements:
 
 ---
 
-## 👨‍💻 Author
-
-### Vijayapandian T
-
----
-
 ## ⭐ Conclusion
 
 This project demonstrates the complete workflow of:
@@ -244,3 +238,7 @@ Database design → Data storage → Data analysis → Business insights
 It reflects how SQL is used in real companies to solve business problems and support data-driven decisions.
 
 ---
+
+## 👨‍💻 Author
+
+Design and Implementation by VIJAYAPANDIAN.T.
