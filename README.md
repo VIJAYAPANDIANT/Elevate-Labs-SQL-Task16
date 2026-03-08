@@ -241,6 +241,6 @@ It reflects how SQL is used in real companies to solve business problems and sup
 
 ## 👨‍💻 Author
 
-Design and Implementation by VIJAYAPANDIAN.T.
+Design and Implementation by VIJAYAPANDIAN.T
 
 ---
